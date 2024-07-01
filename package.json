@@ -1,0 +1,24 @@
+{
+  "name": "realtime-table-pg-express",
+  "version": "1.0.0",
+  "description": "Example on updating a data table UI on web in realtime using express, postres, and socket.io.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosha31/realtime-table-pg-express.git"
+  },
+  "author": "tosha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosha31/realtime-table-pg-express/issues"
+  },
+  "homepage": "https://github.com/tosha31/realtime-table-pg-express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "socket.io": "^4.7.5"
+  }
+}
